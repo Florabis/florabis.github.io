@@ -3,9 +3,12 @@
 backend:
   name: github
   repo: Florabis/florabis.github.io
+  branch: main
+  auth_type: pkce
+  app_id: Ov23liVj5p7ONzeJ79RC
 
-media_folder: /static/media
-public_folder: /media
+media_folder: /public/media
+public_folder: /public
 
 collections:
   - name: posts
