@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "El Estado Real de Florabís",
   description: "The official website for Florabis a state in the IF.",
+  base: "website",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
