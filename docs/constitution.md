@@ -1,4 +1,4 @@
-![](media/Eagle.png)
+![](public/media/Eagle.png)
 
 # **CONSTITUTION OF THE STATE OF FLORABÍS**
 
@@ -348,14 +348,14 @@ Florabís shall be a welcoming State, open to newfriends and veterans alike, whe
 
 “Let it be known that this Constitution of the State of Florabís has been decreed and affirmed by the Soberante, on this day 08/27/2025.”
 
-![](media/signatures/cesar.png)
+![](public/media/signatures/cesar.png)
 
 Cesarrr505, Soberante of Florabís
 
-![](media/signatures/bicep.png)
+![](public/media/signatures/bicep.png)
 
 BicepKing5000, Capitanía-General de San Alejandro
 
-![](media/signatures/transcendntal.png)
+![](public/media/signatures/transcendntal.png)
 
 Transcendntal, Senator of the Imperial Federation / Deputy of the SDPD

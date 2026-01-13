@@ -189,7 +189,7 @@ We are a snowy state at the southern edge of Deluvia, proudly part of the Imperi
 
 ### **Screenshot of Curseforge**
 
-![](media/screenshot-curseforge.png)
+![](public/media/screenshot-curseforge.png)
 
 # Plugins {#plugins}
 
