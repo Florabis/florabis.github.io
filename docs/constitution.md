@@ -1,3 +1,8 @@
+---
+title: Florabis Constitution
+---
+
+
 ![](public/media/Eagle.png)
 
 # **CONSTITUTION OF THE STATE OF FLORABÍS**
