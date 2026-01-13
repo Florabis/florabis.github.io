@@ -1,5 +1,10 @@
 ---
 title: Florabis Constitution
+description: The official constitution of Florabis a sovereign state in the Imperial Federation.
+head:
+  - [meta, { property: og:title, content: Florabis Constitution }]
+  - [meta, { property: og:description, content: The official constitution of Florabis a sovereign state in the Imperial Federation. }]
+  #- [meta, { property: og:image, content: https://yoursite.com/og-page.png }]
 ---
 
 

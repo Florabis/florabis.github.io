@@ -3,8 +3,23 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "El Estado Real de Florabís",
-  description: "The official website for Florabis a state in the IF.",
+  description: "A sovereign state in the Imperial Federation on the CivMC Minecraft server.",
   lastUpdated: true,
+
+  head: [
+    ['meta', { property: 'og:title', content: 'Florabis' }],
+    ['meta', { property: 'og:description', content: 'A sovereign state in the Imperial Federation on the CivMC Minecraft server.' }],
+    ['meta', { property: 'og:image', content: 'https://florabis.github.io/media/FloraFlag_1200x630.png' }],
+    ['meta', { property: 'og:url', content: 'https://florabis.github.io/' }],
+    ['meta', { property: 'og:type', content: 'website' }],
+
+    ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
+    ['meta', { name: 'twitter:title', content: 'Florabis' }],
+    ['meta', { name: 'twitter:description', content: 'A sovereign state in the Imperial Federation on the CivMC Minecraft server.' }],
+    ['meta', { name: 'twitter:image', content: 'https://florabis.github.io/media/FloraFlag_1200x630.png' }],
+  ],
+
+
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     siteTitle: "Florabís",
