@@ -71,9 +71,18 @@ We are a snowy state at the southern edge of Deluvia, proudly part of the Imperi
 ### **Citizens**
 
 * Florabínos
+* Imperial Citizens
 
-### **Cities**
+### **Regions/Cities/districts**
+#### Flora Region
+- Cuidad de Victoria (Victoria City)
+- Hypertomia (Ricos)
 
-* Capital \= San Alejandro de Guadalupe
-* Founding City \= Cuidad de Victoria
-* Other Cities \=
+#### San Alejandro Region
+- San Alejandro Norte 
+- San Alejandro Sur 
+- Söderville (Hisotrical City) 
+- Latice 
+
+#### Wizard Region
+- Distrito Mágico (Wizard District)
