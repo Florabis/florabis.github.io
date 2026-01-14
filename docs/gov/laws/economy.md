@@ -1,6 +1,8 @@
 ---
 title: Laws - Economy
 ---
+WIP
+
 ## **🌲Farming** {#🌲farming}
 
 ### **1\. Replant Trees**

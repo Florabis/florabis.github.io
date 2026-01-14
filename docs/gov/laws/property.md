@@ -1,6 +1,8 @@
 ---
 title: Laws - Property
 ---
+WIP
+
 ## **🔨 Property & Building** {#🔨-property-&-building}
 
 ### **1\. Ways to Acquire Property**
