@@ -10,7 +10,7 @@
     /*        #003847 100%*/
     /*);*/
     /*--vp-home-hero-image-background-image: -webkit-linear-gradient(90deg,rgba(0, 152, 199, 1) 0%, rgba(0, 131, 171, 1) 50%, rgba(0, 102, 133, 1) 100%);*/
-    --vp-home-hero-image-background-image: -webkit-radial-gradient(circle,rgba(0, 65, 85, .6) 0%, rgba(0, 98, 128, .4) 39%, rgba(255, 255, 255, 0) 100%);
+    --vp-home-hero-image-background-image: -webkit-radial-gradient(circle,rgba(0, 65, 85, 1) 0%, rgba(0, 98, 128, 1) 39%, rgba(0, 98, 128, 1) 100%);
 }
 
 
@@ -44,7 +44,8 @@
 
 /* Cut the actual hero image to a circle */
 .VPHomeHero img {
-    border-radius: 50%;
+    width: 100%;
+    border-radius: 10%;
     aspect-ratio: 1 / 1;
     object-fit: cover;
 }
