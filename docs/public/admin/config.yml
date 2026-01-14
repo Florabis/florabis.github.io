@@ -17,12 +17,12 @@ collections:
   - name: gov
     label: Government
     files:
-      - name: officials
-        label: Officials
-        file: docs/gov/officials.md
-        fields:
-          - { label: Title, name: title, widget: string }
-          - { label: Body, name: body, widget: markdown }
+#      - name: officials
+#        label: Officials
+#        file: docs/gov/officials.md
+#        fields:
+#          - { label: Title, name: title, widget: string }
+#          - { label: Body, name: body, widget: markdown }
 
       - name: constitution
         label: Constitution
