@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "El Estado Real de Florabís"
   text: ""
-  tagline: The official website for Florabis a state in the IF.
+  tagline: The official website for Florabis<br>a state in the Imperial Federation
   image:
     src: media/FloraFlag.svg
     alt: Florabis Flag
@@ -16,6 +16,9 @@ hero:
     - theme: brand
       text: Government
       link: /gov/officials
+    - theme: alt
+      text: Discord
+      link: https://discord.gg/7Uu8hBsX2q
 
 #features:
 #  - title: Feature A
