@@ -18,7 +18,7 @@
 
   "theme": {
     "siteTitle": "Florabís",
-    "logo": "media/FloraFlag.svg",
+    "logo": "/media/FloraFlag.svg",
 
     "nav": [
       { "text": "Guide", "link": "/guide" },
