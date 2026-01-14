@@ -1,0 +1,58 @@
+{
+  "title": "Florabís",
+  "description": "A sovereign state in the Imperial Federation on the CivMC Minecraft server.",
+  "lastUpdated": true,
+
+  "head": [
+    ["meta", { "property": "og:title", "content": "Florabis" }],
+    ["meta", { "property": "og:description", "content": "A sovereign state in the Imperial Federation on the CivMC Minecraft server." }],
+    ["meta", { "property": "og:image", "content": "https://florabis.github.io/media/FloraFlag_1200x630.png" }],
+    ["meta", { "property": "og:url", "content": "https://florabis.github.io/" }],
+    ["meta", { "property": "og:type", "content": "website" }],
+
+    ["meta", { "name": "twitter:card", "content": "summary_large_image" }],
+    ["meta", { "name": "twitter:title", "content": "Florabis" }],
+    ["meta", { "name": "twitter:description", "content": "A sovereign state in the Imperial Federation on the CivMC Minecraft server." }],
+    ["meta", { "name": "twitter:image", "content": "https://florabis.github.io/media/FloraFlag_1200x630.png" }]
+  ],
+
+  "theme": {
+    "siteTitle": "Florabís",
+    "logo": "media/FloraFlag.svg",
+
+    "nav": [
+      { "text": "Guide", "link": "/guide" },
+      { "text": "Government", "link": "/gov/officials" }
+    ],
+
+    "sidebar": {
+      "/guide/": [
+        { "text": "Overview", "link": "/guide" },
+        { "text": "Leadership", "link": "/guide/leadership" },
+        { "text": "Citizen Tiers", "link": "/guide/tiers" },
+        { "text": "Server Plugins", "link": "/guide/plugins" },
+        { "text": "Recommended Mods", "link": "/guide/mods" },
+        { "text": "Additional Resources", "link": "/guide/resources" }
+      ],
+      "/gov/": [
+        { "text": "Officials", "link": "/gov/officials" },
+        { "text": "Constitution", "link": "/gov/constitution" },
+        {
+          "text": "Laws", "items": [
+            { "text":  "General", "link":  "/gov/laws/general" },
+            { "text":  "Citizenship", "link":  "/gov/laws/citizenship" },
+            { "text":  "Property", "link":  "/gov/laws/property" },
+            { "text":  "Economy", "link":  "/gov/laws/economy" },
+            { "text":  "Crime", "link":  "/gov/laws/crime" }
+          ]
+        },
+        { "text": "Bills", "link": "/gov/bills" }
+      ]
+    },
+
+    "socialLinks": [
+      { "icon": "discord", "link": "https://discord.gg/7Uu8hBsX2q" },
+      { "icon": "github", "link": "https://github.com/Florabis/florabis.github.io" }
+    ]
+  }
+}

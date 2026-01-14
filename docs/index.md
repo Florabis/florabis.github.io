@@ -14,11 +14,8 @@ hero:
       text: Guide
       link: /guide
     - theme: brand
-      text: Constitution
-      link: /constitution
-    - theme: alt
-      text: Laws
-      link: /laws
+      text: Government
+      link: /gov/officials
 
 #features:
 #  - title: Feature A
